@@ -14,7 +14,18 @@
     <script src="js/jquery-3.6.3.min.js"></script>
     <style>
         /* tulis kode CSS internal di bawah sini */
+        section.produk {
+            background-image: url(../images/background/bgkopi.png);
+            width: 100%;
+        }
 
+        .bg-coffe {
+            background-color: #32485C;
+        }
+
+        .border-co {
+            background-color: #06131f;
+        }
 
         /* Batas Akhir penulisan kode CSS internal */
     </style>
@@ -22,7 +33,7 @@
 
 <body>
     <!-- Tulis Kode Bootstrap Di Bawah Sini -->
-    <nav class="navbar navbar-dark bg-success navbar-expand-lg bisadicopy">
+    <nav class="navbar navbar-dark bg-coffe navbar-expand-lg bisadicopy">
         <div class="container">
             <a class="navbar-brand" href="#">
                 <img src="images/logo/logo_kuy.png" height="40" alt="image">
@@ -47,7 +58,7 @@
                     </li>
                 </ul>
                 <a target="_blank" class="btn btn-outline-light ms-md-3"
-                    href="https://wa.me/6281212345678?text=Halo saya mau pesan kopi">
+                    href="https://wa.me/628232048536?text=Halo saya mau pesan kopi">
                     <i class="bi bi-whatsapp"></i>
                     Chat</a>
             </div>
@@ -55,11 +66,11 @@
     </nav>
 
     <main>
-        <section class="produk text-center my-5 py-5">
+        <section class="produk text-center my-5 py-5 ">
             <div class="container">
                 <h1>Pilih Produk Anda</h1>
                 <p class="fs-4">Nikmati produk andalan yang menjadi kualitas kami.</p>
-                <hr class="border border-success border-3 opacity-75">
+                <hr class="border border-co border-5 opacity-75">
 
                 <!-- Ini Untuk Select -->
                 <div class="form-floating">
@@ -89,7 +100,7 @@
                                         25.000
                                     </div>
                                 </div>
-                                <a href="#" class="btn btn-success w-100">
+                                <a href="#" class="btn btn-secondary w-100">
                                     <i class="bi bi-cart-check"></i> Beli</a>
                             </div>
                         </div>
@@ -109,7 +120,7 @@
                                         250.000
                                     </div>
                                 </div>
-                                <a href="#" class="btn btn-success w-100">
+                                <a href="#" class="btn btn-secondary w-100">
                                     <i class="bi bi-cart-check"></i> Beli</a>
                             </div>
                         </div>
@@ -129,7 +140,7 @@
                                         20.000
                                     </div>
                                 </div>
-                                <a href="#" class="btn btn-success w-100">
+                                <a href="#" class="btn btn-secondary w-100">
                                     <i class="bi bi-cart-check"></i> Beli</a>
                             </div>
                         </div>
@@ -149,7 +160,7 @@
                                         25.000
                                     </div>
                                 </div>
-                                <a href="#" class="btn btn-success w-100">
+                                <a href="#" class="btn btn-secondary w-100">
                                     <i class="bi bi-cart-check"></i> Beli</a>
                             </div>
                         </div>
@@ -161,7 +172,7 @@
         </section>
     </main>
 
-    <footer class="riki-block footer-small py-4 bg-success">
+    <footer class="riki-block footer-small py-4 bg-coffe">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-12 col-md-8">
@@ -182,7 +193,7 @@
                 </div>
 
                 <div class="col-12 col-md-4 mt-4 mt-md-0 text-center text-md-right">
-                    © 2023 Riki &amp; Froala . All Rights Reserved
+                    © 2023 JihanRA . All Rights Reserved
                 </div>
             </div>
         </div>
@@ -228,7 +239,7 @@
                                         ${kopi.harga}
                                     </div>
                                 </div>
-                                <a href="${kopi.link}" class="btn btn-success w-100">
+                                <a href="${kopi.link}" class="btn btn-secondary w-100">
                                     <i class="bi bi-cart-check"></i> Beli</a>
                             </div>
                         </div>
