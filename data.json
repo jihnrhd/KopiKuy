@@ -1,0 +1,136 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "nama": "Biji Kopi Arabika",
+            "size": "250 gram",
+            "harga": "50.000",
+            "link": "https://fore.coffee/wp-content/uploads/2023/01/article_perbedaan-robusta.jpg",
+            "foto": "https://fore.coffee/wp-content/uploads/2023/01/article_perbedaan-robusta.jpg"
+        },
+        {
+            "nama": "Mocaccino",
+            "size": "100 ml",
+            "harga": "24.000",
+            "link": "https://as1.ftcdn.net/v2/jpg/02/88/20/34/1000_F_288203460_MV9HF45HrHywgtXbPpGcxkzkWqrZJbNV.jpg",
+            "foto": "https://as1.ftcdn.net/v2/jpg/02/88/20/34/1000_F_288203460_MV9HF45HrHywgtXbPpGcxkzkWqrZJbNV.jpg"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "nama": "Biji Kopi Robusta",
+            "size": "250 gram",
+            "harga": "50.000",
+            "link": "https://img.freepik.com/free-photo/dark-coffee-beans-bowl-brown-table_176474-1988.jpg?t=st=1711014572~exp=1711018172~hmac=1bd858beeee43f8e566629da5acb94fa5d5d296d3d89ec640be5fb4a9f49d38e&w=360",
+            "foto": "https://img.freepik.com/free-photo/dark-coffee-beans-bowl-brown-table_176474-1988.jpg?t=st=1711014572~exp=1711018172~hmac=1bd858beeee43f8e566629da5acb94fa5d5d296d3d89ec640be5fb4a9f49d38e&w=360"
+        },
+        {
+            "nama": "Americano",
+            "size": "100 ml",
+            "harga": "15.000",
+            "link": "https://diethood.com/wp-content/uploads/2023/08/iced-americano-7-1.jpg",
+            "foto": "https://diethood.com/wp-content/uploads/2023/08/iced-americano-7-1.jpg"
+        },
+        {
+            "nama": "Iced Latte",
+            "size": "250 ml",
+            "harga": "25.000",
+            "link": "https://img.freepik.com/free-photo/iced-latte-coffee_1203-8396.jpg?t=st=1711022263~exp=1711025863~hmac=e82bfde799b2c72b9aeca1e9346743d5e801234e8bb8279a92e61af48671757f&w=360",
+            "foto": "https://img.freepik.com/free-photo/iced-latte-coffee_1203-8396.jpg?t=st=1711022263~exp=1711025863~hmac=e82bfde799b2c72b9aeca1e9346743d5e801234e8bb8279a92e61af48671757f&w=360"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://img.freepik.com/free-photo/top-view-set-ice-cream-cones-with-chocolate_23-2148425392.jpg",
+            "nama": "Ice Cream",
+            "size": "100 Gram",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+        },
+        {
+            "nama": "Mojito Stoberi",
+            "size": "100 ml",
+            "harga": "20.000",
+            "link": "https://burrataandbubbles.com/wp-content/uploads/2022/07/strawberry-mojito-featured-image.jpg",
+            "foto": "https://burrataandbubbles.com/wp-content/uploads/2022/07/strawberry-mojito-featured-image.jpg"
+        },
+        {
+            "nama": "Ice Matcha",
+            "size": "100 ml",
+            "harga": "25.000",
+            "link": "https://www.texanerin.com/content/uploads/2022/08/Iced-Matcha-Latte-Starbucks-Copycat-image-1-650x975.jpg",
+            "foto": "https://www.texanerin.com/content/uploads/2022/08/Iced-Matcha-Latte-Starbucks-Copycat-image-1-650x975.jpg"
+        },
+        {
+            "nama": "Thai Tea",
+            "size": "100 ml",
+            "harga": "20.000",
+            "link": "https://www.foxandbriar.com/wp-content/uploads/2022/07/thai-iced-tea-square-1-of-1.jpg",
+            "foto": "https://www.foxandbriar.com/wp-content/uploads/2022/07/thai-iced-tea-square-1-of-1.jpg"
+        }
+    ],
+    "snack": [
+        {
+            "nama": "Mix Platter",
+            "size": "Medium",
+            "harga": "15.000",
+            "link": "https://miemiebrownie.com/wp-content/uploads/2020/05/WhatsApp-Image-2020-09-15-at-08.18.22-e1600137034150.jpeg",
+            "foto": "https://miemiebrownie.com/wp-content/uploads/2020/05/WhatsApp-Image-2020-09-15-at-08.18.22-e1600137034150.jpeg"
+        },
+        {
+            "nama": "Onion Ring",
+            "size": "Medium",
+            "harga": "10.000",
+            "link": "https://thecozycook.com/wp-content/uploads/2020/07/Onion-Rings-Recipe-f.jpg",
+            "foto": "https://thecozycook.com/wp-content/uploads/2020/07/Onion-Rings-Recipe-f.jpg"
+        },
+        {
+            "nama": "Egg Toast",
+            "size": "Medium",
+            "harga": "15.000",
+            "link": "https://www.licious.in/blog/wp-content/uploads/2020/12/shutterstock_1355608748.jpg",
+            "foto": "https://www.licious.in/blog/wp-content/uploads/2020/12/shutterstock_1355608748.jpg"
+        },
+        {
+            "nama": "Cheese Cake",
+            "size": "Medium",
+            "harga": "10.000",
+            "link": "https://cakesbymk.com/wp-content/uploads/2023/11/Template-Size-for-Blog-Photos-24.jpg",
+            "foto": "https://cakesbymk.com/wp-content/uploads/2023/11/Template-Size-for-Blog-Photos-24.jpg"
+        }
+    ]
+}
